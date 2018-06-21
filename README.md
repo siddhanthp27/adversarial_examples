@@ -14,3 +14,5 @@ This folder contains implementation of papers that generate adversarial examples
 5. [adversarial.ipynb](https://github.com/siddhanthp27/adversarial_examples/blob/master/adversarial.ipynb): Adversarial example tutorial by [Anish Athalye](https://github.com/anishathalye/)
 
 6. [CIFAR_visualisation.ipynb](https://github.com/siddhanthp27/adversarial_examples/blob/master/CIFAR_visualisation.ipynb): File to visualize images 
+
+7. [Adversarial Examples-CIFAR10-jsma.ipynb](https://github.com/siddhanthp27/adversarial_examples/blob/master/Adversarial%20Examples-CIFAR10-jsma.ipynb) Contains implementation of ["The Limitations of Deep Learning in Adversarial Settings"](https://arxiv.org/abs/1511.07528) by Papernot et. al.
