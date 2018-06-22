@@ -15,7 +15,7 @@ This folder contains implementation of papers that generate adversarial examples
 
 6. [CIFAR_visualisation.ipynb](https://github.com/siddhanthp27/adversarial_examples/blob/master/CIFAR_visualisation.ipynb): File to visualize images 
 
-7. [Adversarial Examples-CIFAR10-jsma.ipynb](https://github.com/siddhanthp27/adversarial_examples/blob/master/Adversarial%20Examples-CIFAR10-jsma.ipynb) Contains implementation of ["The Limitations of Deep Learning in Adversarial Settings"](https://arxiv.org/abs/1511.07528) by Papernot et. al.
+7. [Adversarial Examples-CIFAR10-jsma.ipynb](https://github.com/siddhanthp27/adversarial_examples/blob/master/Adversarial%20Examples-CIFAR10-jsma.ipynb): Contains implementation of ["The Limitations of Deep Learning in Adversarial Settings"](https://arxiv.org/abs/1511.07528) by Papernot et. al.
 
-8. [Adversarial Examples-CIFAR10-DeepFool.ipynb](https://github.com/siddhanthp27/adversarial_examples/blob/master/Adversarial%20Examples-CIFAR10-DeepFool.ipynb)Contains implementation of ["
+8. [Adversarial Examples-CIFAR10-DeepFool.ipynb](https://github.com/siddhanthp27/adversarial_examples/blob/master/Adversarial%20Examples-CIFAR10-DeepFool.ipynb): Contains implementation of ["
 DeepFool: a simple and accurate method to fool deep neural networks"](https://arxiv.org/abs/1511.04599) by Moosavi et. al.
